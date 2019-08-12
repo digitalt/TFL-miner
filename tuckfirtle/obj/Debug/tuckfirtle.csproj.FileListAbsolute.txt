@@ -1,0 +1,2 @@
+D:\TUCKFIRTLE\tuckfirtle\tuckfirtle\tuckfirtle\bin\Debug\tuckfirtle.exe.config
+D:\TUCKFIRTLE\tuckfirtle\tuckfirtle\tuckfirtle\obj\Debug\tuckfirtle.csprojResolveAssemblyReference.cache
